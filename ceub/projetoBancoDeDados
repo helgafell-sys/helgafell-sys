@@ -1,0 +1,32 @@
+CREATE DATABASE banco1;
+create database banco2;
+use banco2;
+CREATE TABLE cliente(
+	id_cliente int primary key auto_increment,
+    nome_cliente varchar(200) not null,
+    email_cliente varchar(100) not null,
+    data_nascimento_cliente date null
+);
+CREATE TABLE endereco(
+	id_endereco int primary key auto_increment,
+    numero varchar(4) not null,
+    rua varchar(100) not null,
+    bairro varchar(100) not null,
+    municipio varchar(100) not null,
+    estado varchar(100) not null,
+    fk_cliente int not null,
+    foreign key cliente(fk_cliente) references
+    cliente(id_cliente)
+);
+alter table cliente add column
+sexo varchar(1);
+alter table cliente drop column sexo;
+alter table cliente modify column data_nascimento date;
+alter table endereco change column
+municipio cidade varchar(100) not null;
+
+insert into cliente(
+	nome_cliente,
+    email_cliente) values("Joao Gabriel Costa Alves", "joao.calves@sempreceub.com");
+
+select * from cliente;
