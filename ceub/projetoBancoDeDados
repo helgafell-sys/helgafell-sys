@@ -18,6 +18,11 @@ CREATE TABLE endereco(
     foreign key cliente(fk_cliente) references
     cliente(id_cliente)
 );
+CREATE TABLE produto(
+	id_produto int primary key auto_increment,
+	valor varchar(100) not null,
+	descricao(100) not null
+);
 alter table cliente add column
 sexo varchar(1);
 alter table cliente drop column sexo;
