@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo sobre **programação em C e Python, assim como MySQL**
 
-- 📫 Como me contactar **jgcostaalves2@gmail.com**
+- 📫 Como me contactar **joao.calves@sempreceub.com**
 
 - 📄 Conheça minhas experiências [https://docs.google.com/document/d/1sh1UM4o_lJEc1h-0ZQ3Bj7iFYyS13lHQ3SmmRyrQ_DA/edit#heading=h.cxxkes25b26](https://docs.google.com/document/d/1sh1UM4o_lJEc1h-0ZQ3Bj7iFYyS13lHQ3SmmRyrQ_DA/edit#heading=h.cxxkes25b26)
 
