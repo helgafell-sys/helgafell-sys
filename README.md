@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou João Gabriel</h1>
-<h3 align="center">Estudante apaixonado de Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **programação em C e Python, assim como MySQL**
+- 🌱 Atualmente estou aprendendo sobre **programação em C# e Python, assim como MySQL**
 
 - 📫 Como me contactar **joao.calves@sempreceub.com**
 
